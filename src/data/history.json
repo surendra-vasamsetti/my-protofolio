@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Python Developer Intern",
+    "organisation": "codsoft",
+    "startDate": "jan, 2024",
+    "endDate": "feb, 2024",
+    "experiences": ["Worked on Real-time Project", "gain some knowledge"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Front-End Devloper Intern",
+    "organisation": "codeways",
+    "startDate": "apr, 2024",
+    "endDate": "may, 2024",
+    "experiences": ["worked on project landing page", "Designed and implementing hooks"],
+    "imageSrc": "history/microsoft.png"
+  }
+ 
+]
